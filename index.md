@@ -86,7 +86,7 @@ A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agi
 ### [SMS Infocomm](http://www.smsinfocomm.com/)
 
 
-#### L1 Laptop Technician - 2021 - Present
+#### L1 Laptop Technician - 2021 - 2022
 
 - Handles sensitive components utilizing ESD safety precautions 
 
@@ -96,6 +96,18 @@ A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agi
 	- Replaces damaged components
 
 - Routinely lifts heavy stacks of material
+
+### Chick-Fil-A
+
+#### Front of House - 2022 - 2023
+
+- Met the needs of customers in a stressful and high-speed environment (an airport terminal)
+
+### Avis-Budget Group
+
+#### Customer Support Representative 2023-Current
+
+- Exactly what it sounds like
 
 ## Education
 
