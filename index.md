@@ -105,7 +105,7 @@ A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agi
 
 ### Avis-Budget Group
 
-#### Customer Support Representative 2023-Current
+#### Customer Support Representative 2023 - Current
 
 - Exactly what it sounds like
 
