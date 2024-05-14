@@ -1,91 +1,102 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joshua Money
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<jwmonet@protonmail.com>  
+[Github](https://www.github.com/SandwichChef)  
+United States (Texas)
+
+## Objective
+
+A system administration role, alternatively: any IT or helpdesk related role
+
+## Employment
+
+### [Dollar General](https://www.dollargeneral.com/)
+
+#### Clerk - Early to Mid 2018
+
+- Performed basic cleaning tasks
+- Unloaded freight and stocked all merchandise
+- Ran the register and met the needs/demands of customers
+
+#### Shift Lead / Keyholder - Mid to late 2018
+
+- Opened and closed the store on an as-needed basis
+- Documented and balanced daily reports on received money
+- Transported deposits to the bank
+
+### [Tom Thumb](https://www.tomthumb.com/) - Dallas, Texas
+
+A Texas based subsidiary of Safeway, competitor of Central Market.
+
+#### General Merchandising - 2018 - 2019
+
+- Unloaded freight and stocked the general merchandise section
+- Performed general cleaning duties
+
+#### Barista - 2018 - 2019
+
+- Manned the Starbucks kiosk
+	- Managed inventory, pulled ingredients and frozen items on a daily basis as needed
+	- Provided customers with recommendations and suggestions based on their preferences
+	- Learned the names and preferences of regular customers and pre-emptively started on their beverages of choice
+
+#### Baker - 2018 - 2019
+
+- Baked bread products and stocked the bakery section
+- Decorated cakes
+
+### [Aleph Technologies](https://aleph-technologies.com/) - Richardson/Plano, Texas
+
+A consulting company with a focus on Agile (Particularly Scrum, esp. [Scaled Agile](https://www.scaledagile.com/) and [Scrum Alliance](https://www.scrumalliance.org/))
+
+#### System Administrator - March 2019 to March 2020
+
+- Was responsible for the maintainence and adminstration of all the company's server on an on-call basis.
+
+- Primarily dealt with VPSs running common distributions of Linux such as Ubuntu and CentOS. 
+
+- Applied heuristics and advanced problem solving / debugging in order to diagnose and remediate issues
+
+- Assembled and retrofitted many machines and assessed the cost/difficulty of any necessary upgrades or purchases.
+
+#### Scrum Master - Summer of 2019
+
+- Lead a devteam of 5 interns.
+
+- Helped facilitate and coordinate the team's efforts.
+
+- Assisted in implementing and performing code reviews.
+
+### [Quiktrip](https://www.quiktrip.com/)
+
+#### Clerk 2020 - 2021
+
+- Performed a number of tasks from the daily assignment worksheet
+
+- Ran the registers and provided customers with customer service
+
+#### Emergency Relief Personnel 2020 - 2021
+
+- Acted as a clerk and travelled within 25 miles to assist with personnel shortages
+
+#### Night Assistant (Assistant Manager)  Q1 2021 - Q2 2021 
+
+- Managed a store overnight until relieved by the morning shift
+
+### [SMS Infocomm](http://www.smsinfocomm.com/)
 
 
-## Currently
+#### L1 Laptop Technician - 2021 - Present
 
-Standing on the shoulders of giants
+- Handles sensitive components utilizing ESD safety precautions 
 
-### Specialized in
+- Engages in whole unit repair of laptops:
+	- Utilizes troubleshooting strategies in order to diagnose problems and identify faulty components
+	- Requisitions necessary parts by communicating with the warehouse department
+	- Replaces damaged components
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Routinely lifts heavy stacks of material
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+**Lake Highlands High School** - Class of 2011
